@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <CounterApp /> Debe mostrar el componente <CounterApp /> de manera correcta 1`] = `
+<Fragment>
+  <h1>
+     CounterApp 
+  </h1>
+  <h2>
+    0
+  </h2>
+  <button
+    onClick={[Function]}
+  >
+     - 
+  </button>
+  <button
+    onClick={[Function]}
+  >
+     Reset 
+  </button>
+  <button
+    onClick={[Function]}
+  >
+     + 
+  </button>
+</Fragment>
+`;
+
+exports[`Pruebas en <CounterApp /> Debe mostrar el componente <CounterApp /> de manera correcta con parametro 1`] = `
+<Fragment>
+  <h1>
+     CounterApp 
+  </h1>
+  <h2>
+    100
+  </h2>
+  <button
+    onClick={[Function]}
+  >
+     - 
+  </button>
+  <button
+    onClick={[Function]}
+  >
+     Reset 
+  </button>
+  <button
+    onClick={[Function]}
+  >
+     + 
+  </button>
+</Fragment>
+`;
